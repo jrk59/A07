@@ -61,7 +61,7 @@ main h1 {
 	border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
 	border-style: double;
-	box-shadow: 5px 5px var(--global-color-1);
+	box-shadow: 4px 4px var(--global-color-1);
 	border-radius: 25px;
 }
 main h2 {
